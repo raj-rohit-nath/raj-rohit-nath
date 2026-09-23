@@ -1,6 +1,6 @@
 # Hi, I'm Raj Rohit Nath 👋
 
-**CSE student working at the intersection of Machine Learning and Cybersecurity.**
+**CSE Graduate working at the intersection of Machine Learning and Cybersecurity.**
 
 I build ML systems that detect threats, from network intrusions to malware, and I care about making those models explainable, not just accurate. I'm currently preparing for an MSc in AI Security.
 
