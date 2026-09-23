@@ -35,9 +35,9 @@ I build ML systems that detect threats, from network intrusions to malware, and 
 
 ## 📫 Get in touch
 
-- 📧 Email: rajrohit32100@gmail.com
+- 📧 Email: your.email@example.com
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/raj-rohit-nath-5b8735218/)
-- 🌍 Portfolio: [your-portfolio-link]([https://github.com/raj-rohit-nath/Portfolio](https://raj-rohit-nath.github.io/Portfolio))
+- 🌍 Portfolio: [your-portfolio-link](https://raj-rohit-nath.github.io/Portfolio)
 
 <!-- Optional: uncomment for auto-generated stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-rohit-nath&show_icons=true&hide_border=true)
